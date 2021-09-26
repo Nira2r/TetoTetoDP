@@ -1,7 +1,7 @@
-#てとてとDP
+# てとてとDP
 
-How to play
-1P側
+## How to play
+### 1P側
 ← A
 → D
 ハードドロップ W
@@ -9,7 +9,7 @@ How to play
 左回転 X
 右回転 C
 HOLD Q
-2P側
+### 2P側
 ← J
 → L
 ハードドロップ I
@@ -18,4 +18,4 @@ HOLD Q
 右回転 M
 HOLD O
 
-後は大体察せ
+~~後は大体察せ~~
