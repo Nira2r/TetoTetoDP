@@ -39,6 +39,7 @@ SWAP Space
 ~~後は大体察せ~~
 
 ## 更新履歴
-2021.9.26 ver. proto_0 初リリース
 
-     9.29 ver. proto_1 SWAP追加、スコア計算式の改善、T-spinボーナス、BackToBack、Comboの実装
+2021.9.26 proto_0 (初リリース)
+
+2021.9.29 proto_1 SWAP追加、スコア計算式の改善、T-spinボーナス、BackToBack、Comboの実装
