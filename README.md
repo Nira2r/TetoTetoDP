@@ -1,5 +1,8 @@
 # てとてとDP
 
+## Downloads
+https://github.com/Nira2r/TetoTetoDP/releases
+
 ## How to play
 ### 1P側
 ← A
