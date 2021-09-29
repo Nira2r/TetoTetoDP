@@ -32,7 +32,7 @@ HOLD Q
 
 HOLD O
 
-###1P2P共通
+### 1P2P共通
 
 SWAP Space
 
