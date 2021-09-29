@@ -32,4 +32,8 @@ HOLD Q
 
 HOLD O
 
+###1P2P共通
+
+SWAP Space
+
 ~~後は大体察せ~~
